@@ -45,7 +45,3 @@ The goal of this project is to develop a predictive model that forecasts whether
    - Key features impacting claim probability include age of the car, policy tenure, and car power.  
    - The model can help insurers identify high-risk policyholders and optimize claim management.
 
-
-
-## 📸 Sample Visualizations
-*(Add screenshots or plots from your notebook here)*  
